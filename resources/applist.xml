@@ -1,0 +1,93 @@
+<applist>
+	<minversion>1.0.298</minversion>
+	<app>
+		<id>15</id>
+		<name>qooWeather</name>
+		<uid>0xEE06CA99</uid>
+		<uidstore>0x200399DE</uidstore>
+		<uidunsigned></uidunsigned>
+		<icon>http://<YOUR_REPO_DOMAIN>/qooweather.png</icon>
+		<version>5.0.0</version>
+		<versionstore>4.3.4</versionstore>
+		<versionunsigned></versionunsigned>
+		<versiondate>2015-04-28 11:53:31</versiondate>
+		<versiondatestore>2014-01-04 21:38:11</versiondatestore>
+		<versiondateunsigned>0000-00-00 00:00:00</versiondateunsigned>
+		<category>1</category>
+		<language>EN,DE</language>
+		<os>5.2,5.3,5.4,5.5</os>
+		<developer>qooApps</developer>
+		<mail>xxx@yyy.z</mail>
+		<website>http://www.qooapps.com</website>
+		<twitter></twitter>
+		<facebook></facebook>
+		<donation>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EL47SXP9MDTAW</donation>
+		<aas>http://www.allaboutsymbian.com/flow/item/19022_qooWeather_final_Store_update_.php</aas>
+		<price>0.00</price>
+		<description>Note: Because the implementation of the OpenWeatherMap API is not working anymore, you can use the MSN API by typing in "MSN, " (without quotes) in front of the location in the settings.
+
+Choose your favorite city or add your location (by tapping on the city edit field) and get a 5-day weather forecast provided by OpenWeatherMap API. 
+The data will be updated automatically or manually - only a mobile data connection is required.
+You have day/night, can choose between different widget layouts and change the transparency of the widget. 
+
+NEW: See the weather data also in qooSaver - a customizable screen saver, which is show also when your phone is locked.
+
+Important: Start application first, then go to homescreen and add the widget.</description>
+		<image1></image1>
+		<image2></image2>
+		<image3></image3>
+		<image4></image4>
+		<image5></image5>
+		<tags>qooApps weather homescreen widget</tags>
+		<changelog>- Changed source to OpenWeatherMap API</changelog>
+		<unsignednote></unsignednote>
+		<download>http://<YOUR_REPO_DOMAIN>/15-1-qooWeatherII_5_0_0.sis</download>
+		<downloadsize>741164</downloadsize>
+		<downloadstore>http://store.ovi.com/content/282480</downloadstore>
+		<downloadunsigned></downloadunsigned>
+		<downloadunsignedsize>0</downloadunsignedsize>
+	</app>
+	<app>
+		<id>48</id>
+		<name>Gismeteo</name>
+		<uid>0x200622D0</uid>
+		<uidstore></uidstore>
+		<uidunsigned></uidunsigned>
+		<icon>http://<YOUR_REPO_DOMAIN>/gismeteo.png</icon>
+		<version>1.1.1</version>
+		<versionstore></versionstore>
+		<versionunsigned></versionunsigned>
+		<versiondate>2014-08-05 23:25:53</versiondate>
+		<versiondatestore>0000-00-00 00:00:00</versiondatestore>
+		<versiondateunsigned>0000-00-00 00:00:00</versiondateunsigned>
+		<category>1</category>
+		<language>EN,DE</language>
+		<os>5.2,5.3,5.4,5.5</os>
+		<developer>Gismeteo</developer>
+		<mail>xxx@yyy.z</mail>
+		<website>http://www.gismeteo.com</website>
+		<twitter></twitter>
+		<facebook>https://www.facebook.com/Gismeteo</facebook>
+		<donation></donation>
+		<aas></aas>
+		<price>0.00</price>
+		<description>Official app from Gismeteo - first Russian weather forecasting service.
+
+Accurate weather forecast now is available on Symbian.
+
+Additionally the Gismeteo app includes fully customizable homescreen widgets in various sizes.</description>
+		<image1></image1>
+		<image2></image2>
+		<image3></image3>
+		<image4></image4>
+		<image5></image5>
+		<tags>weather homescreen widget meteo</tags>
+		<changelog></changelog>
+		<unsignednote></unsignednote>
+		<download>http://<YOUR_REPO_DOMAIN>/48-1-Gismeteo_1.1.1.sis</download>
+		<downloadsize>2291888</downloadsize>
+		<downloadstore></downloadstore>
+		<downloadunsigned></downloadunsigned>
+		<downloadunsignedsize>0</downloadunsignedsize>
+	</app>
+</applist>

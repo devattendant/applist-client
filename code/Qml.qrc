@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/qml/AppList/images">
+        <file alias="contacts.svg">qml/AppList/images/contacts.svg</file>
+        <file alias="facebook.png">qml/AppList/images/facebook.png</file>
+        <file alias="iconbig.png">qml/AppList/images/iconbig.png</file>
+        <file alias="mail.png">qml/AppList/images/mail.png</file>
+        <file alias="search.svg">qml/AppList/images/search.svg</file>
+        <file alias="twitter.png">qml/AppList/images/twitter.png</file>
+        <file alias="web.png">qml/AppList/images/web.png</file>
+        <file alias="updateicon.png">qml/AppList/images/updateicon.png</file>
+        <file alias="close_stop.svg">qml/AppList/images/close_stop.svg</file>
+        <file alias="about-icon.svg">qml/AppList/images/about-icon.svg</file>
+    </qresource>
+    <qresource prefix="/qml/AppList">
+        <file alias="AboutPage.qml">qml/AppList/AboutPage.qml</file>
+        <file alias="AppLink.qml">qml/AppList/AppLink.qml</file>
+        <file alias="AppListView.qml">qml/AppList/AppListView.qml</file>
+        <file alias="CategoryListPage.qml">qml/AppList/CategoryListPage.qml</file>
+        <file alias="CategoryPage.qml">qml/AppList/CategoryPage.qml</file>
+        <file alias="DetailPage.qml">qml/AppList/DetailPage.qml</file>
+        <file alias="ImagePage.qml">qml/AppList/ImagePage.qml</file>
+        <file alias="Loading.qml">qml/AppList/Loading.qml</file>
+        <file alias="main.qml">qml/AppList/main.qml</file>
+        <file alias="MainAppLoader.qml">qml/AppList/MainAppLoader.qml</file>
+        <file alias="MainPage.qml">qml/AppList/MainPage.qml</file>
+        <file alias="NewsElement.qml">qml/AppList/NewsElement.qml</file>
+        <file alias="PersonalPage.qml">qml/AppList/PersonalPage.qml</file>
+        <file alias="SelectVersion.qml">qml/AppList/SelectVersion.qml</file>
+        <file alias="SplashScreen.qml">qml/AppList/SplashScreen.qml</file>
+        <file alias="UpdatePage.qml">qml/AppList/UpdatePage.qml</file>
+        <file alias="SearchPage.qml">qml/AppList/SearchPage.qml</file>
+        <file alias="DialogComp.qml">qml/AppList/DialogComp.qml</file>
+        <file alias="SelectVersionItem.qml">qml/AppList/SelectVersionItem.qml</file>
+        <file alias="SettingsPage.qml">qml/AppList/SettingsPage.qml</file>
+        <file alias="UpdatesPage.qml">qml/AppList/UpdatesPage.qml</file>
+        <file alias="MultiSelectionDialog.qml">qml/AppList/MultiSelectionDialog.qml</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>applist_de.qm</file>
+        <file>applist_pl.qm</file>
+        <file alias="apps.txt">apps.txt</file>
+        <file>applist_it.qm</file>
+        <file>applist_hu.qm</file>
+        <file>applist_fr.qm</file>
+        <file>applist_ru.qm</file>
+        <file>applist_pt.qm</file>
+        <file>applist_uk.qm</file>
+        <file>applist_es.qm</file>
+        <file>applist_el.qm</file>
+    </qresource>
+</RCC>
